@@ -1,2 +1,3 @@
 First text line 
 Added line 2 commit and push - let see what will happen
+Added line 3
